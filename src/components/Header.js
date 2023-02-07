@@ -30,7 +30,7 @@ function Header() {
           <div className="row align-items-center">
             <div className="col-2">
               <h2>
-                <div className="text-white">Developer.</div>
+                <div className="text-white">DevGuruF.</div>
               </h2>
             </div>
             <div className="col-5">
